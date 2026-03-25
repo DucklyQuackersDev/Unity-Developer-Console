@@ -37,7 +37,7 @@ Now youre all setup with in the Unity environment!
 Current version 1.0
 
 ## Authors
-- **Zac Saylor** - *Main contributor* - [saylorz](https://github.com/saylorz)
+- **Duck** - *Main contributor* - [DucklyQuackersDev](https://github.com/DucklyQuackersDev)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/saylorz/DungeonRaider/blob/master/LICENSE) file for details
